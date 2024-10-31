@@ -10,13 +10,30 @@ sidebar:
     # Profile information
     name: Paul Adrian Oltean
     tagline: Estudiante
+    avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
     email: pauolt2@alu.edu.gva.es
-    timezone: Europa/Madrid # Enter your timezone, e.g., America/Havana, Africa/Casablanca, America/North_Dakota/Center
+    phone: 
+    timezone: España/Madrid # Enter your timezone, e.g., America/Havana, Africa/Casablanca, America/North_Dakota/Center
+    citizenship:
+    website:  # Include the full website URL, including "http://" or "https://".
+    linkedin: 
+    xing: 
     github: pauolt2
+    telegram: # add your nickname without '@' sign
+    gitlab:
+    bitbucket:
+    twitter: 
+    stack-overflow: # Number/Username, e.g. 123456/alandoe
+    codewars:
+    goodreads: # Number-Username, e.g. 123456-alandoe
+    mastodon:  # Please include your full Mastodon link here.
+    hackerrank: # Please provide your HackerRank username.
+    leetcode: # Please provide your LeetCode username.
+    pdf: # Add a PDF link here if you want to include a PDF custom version in your resume.
 
-    Languages:
+    languages:
       title: Idiomas
       info:
         - idiom: Español
@@ -37,28 +54,129 @@ sidebar:
         - item: Programar
           link:
 
-          
+        - item: Coches
+          link:
+
+career-profile:
+    title: 
+    summary:
 education:
-    title: Estudips
+    title: Estudios
     info:
-      - degree: Grado Superior en Desarrolo de Aplicaciones Multiplataforma (DAM)
+      - degree: Grado superior en Desarrollo de Aplicaciones Multiplataforma
         university: IES Benigaslo
+        time: 2024 - 2026
+        details:
+        
       - degree: Bachillerato
         university: IES Honori Garcia
+        time: 2022 - 2024
+        details: 
 
+experiences:
+    title: 
+    info:
+      - role: 
+        time: 
+        company: 
+        details:
+      - role:
+        time:
+        company:
+        details: 
+      - role: 
+        time: 
+        company: 
+        details:
+
+certifications:
+      title:
+      list:
+        - name: 
+          start: 
+          end: 
+          organization: 
+          credentialid: 
+          credentialurl: 
+          credentialname: 
+          details: 
+        - name: 
+          start: 
+          end:
+          organization: 
+          credentialid: 
+          credentialurl: 
+          credentialname: 
+          details: 
+
+projects:
+    title: 
+    intro:
+    
+    assignments:
+      - title: 
+        link: 
+        tagline: 
+        
+      - title: 
+        link: 
+        tagline: 
+
+      - title: 
+        link: 
+        tagline: 
+
+      - title: 
+        link: 
+        tagline: 
+
+      - title: 
+        link: 
+        tagline: 
+oss:
+    title: 
+    intro: 
+    contributions:
+      - title: 
+        link: 
+        tagline: 
+        
+      - title: 
+        link: 
+        tagline: 
+        
+      - title:
+        link: 
+        tagline: 
+        
+publications:
+    title: 
+    intro: 
+    papers:
+      - title: 
+        link: 
+        authors: 
+        conference: 
+
+      - title: 
+        link: 
+        authors: 
+        conference: 
+        
+      - title: 
+        link: 
+        authors: 
+        conference:
 
 skills:
-    title: Habilidades
-
+    title: Habilidades 
+    
     toolset:
       - name: Java
         level: 35%
 
       - name: C++
         level: 35%
-
-      - name: HTML5
-        level: 20%
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
