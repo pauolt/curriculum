@@ -99,7 +99,8 @@ certifications:
           credentialid: 
           credentialurl: 
           credentialname: 
-          details: 
+          details: Me llamo Paul y soy un estudiante de Grado Superior en Desarrollo de Aplicaciones Multiplataforma(DAM, con habilidades en: trabajo en equipo, organización y resolución de problemas. Estoy estudiando Java y pretendo dominarlo, también tengo algo de conocimiento de C++.
+          Busco una oportunidad para adquirir experiencia laboral y desarrollarme profesionalmente como programador.
         - name: 
           start: 
           end:
@@ -169,7 +170,7 @@ publications:
         conference:
 
 skills:
-    title: Habilidades 
+    title: Lenguajes 
     
     toolset:
       - name: Java
@@ -179,4 +180,3 @@ skills:
         level: 35%
 
 footer: >
-    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
