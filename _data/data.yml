@@ -75,7 +75,8 @@ education:
 
 experiences:
     title: 
-    info:
+    info: Me llamo Paul y soy un estudiante de Grado Superior en Desarrollo de Aplicaciones Multiplataforma(DAM), con habilidades en: trabajo en equipo, organización y resolución de problemas. Estoy estudiando Java y pretendo dominarlo, también tengo algo de conocimiento de C++.
+          Busco una oportunidad para adquirir experiencia laboral y desarrollarme profesionalmente como programador.
       - role: 
         time: 
         company: 
@@ -99,8 +100,7 @@ certifications:
           credentialid: 
           credentialurl: 
           credentialname: 
-          details: Me llamo Paul y soy un estudiante de Grado Superior en Desarrollo de Aplicaciones Multiplataforma(DAM), con habilidades en: trabajo en equipo, organización y resolución de problemas. Estoy estudiando Java y pretendo dominarlo, también tengo algo de conocimiento de C++.
-          Busco una oportunidad para adquirir experiencia laboral y desarrollarme profesionalmente como programador.
+          details: 
         - name: 
           start: 
           end:
